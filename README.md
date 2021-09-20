@@ -13,6 +13,12 @@
 </h4>
 </p>
 
+## ```Deploy```
+
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/Self-bot-wa/)
+
 ## CARA INSTALL
 ```
 > termux-setup-storage
